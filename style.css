@@ -1,0 +1,36 @@
+.header{
+   
+    display: flex;
+   flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+.menu{
+    
+display: flex;
+justify-content: space-evenly;
+}
+.footer{
+   
+    display: flex;
+    justify-content: space-evenly;
+    }
+    h1{
+        color: darkred;
+    }
+
+.item{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+}
+.grid{
+    display: flex;
+    justify-content: flex-start;
+}
+.head{
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: center;
+     justify-content: space-evenly;
+}
